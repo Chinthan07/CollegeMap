@@ -2,7 +2,7 @@
 
    This project helps in locating the classes and labs in the college. Currently this is done for NMAMIT, NITTE.
   
-TECHNOLOGIES USED
+TECHNOLOGIES USED:
 
    Used HTML,CSS,JavaScript for Front-End and PHP, MySQL for Back-End
    In order to run this on the PC PHP MyAdmin and XAMPP is necessary
