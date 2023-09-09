@@ -1,5 +1,4 @@
-# alo06.github.io
-COLLEGE MAP
+# COLLEGE MAP
 
    This project helps in locating the classes and labs in the college. Currently this is done for NMAMIT, NITTE.
   
