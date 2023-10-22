@@ -9,7 +9,7 @@ Technologies Used:
   . Used HTML,CSS,JavaScript for Front-End and PHP, MySQL for Back-End
   . In order to run this on the PC PHP MyAdmin and XAMPP is necessary
   
-==============================================================================================
+============================================================================================
   
  The files are currently of the type .html for github hosting purpose
  Inorded Completely Use this website follow the next steps
@@ -33,6 +33,6 @@ Technologies Used:
   4. With the help of XAMPP run Apache and you are ready to go.
 
      
-==============================================================================================
+============================================================================================
 _____________________________________________Thank You_________________________________________
   
