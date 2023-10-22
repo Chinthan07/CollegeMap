@@ -26,11 +26,11 @@ Technologies Used:
             
    4. For the Back-End use the project.csv file inorder to get the database
                i) Go to PHP MyAdmin and Use the import option
-               ii) Select the project.csv file and thats it, you have the database
+               ii) Select the project.csv file and thats it, you have the database<br>
                ![Capture](https://user-images.githubusercontent.com/96821629/212859325-ecfdefc9-428d-439c-942d-2d98893a4e58.JPG)
                
    NOTE:1) If you have problem with importing, use the project.sql file and open it with VS Code.
-                    2) Copy the entire code, paste it in the SQL section and run the SQL queries. This will create the required tables
+                    2) Copy the entire code, paste it in the SQL section and run the SQL queries. This will create the required tables<br>
                     ![Capture2](https://user-images.githubusercontent.com/96821629/212860411-7e9aaf0b-7191-44fb-908c-7b98547ad5d2.JPG)
           
                
