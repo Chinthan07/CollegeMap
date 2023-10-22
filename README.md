@@ -17,6 +17,7 @@ This has been developed using HTML, CSS, and JavaScript making the project effic
  The files are currently of the type .html for github hosting purpose
 
  --> Installation Instructions:<br>
+ 
      Inorded Completely Use this website follow the next steps
      
    1. Clone the website and store it in your PC
