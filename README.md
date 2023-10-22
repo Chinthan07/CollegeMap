@@ -40,9 +40,9 @@ Technologies Used:
 --> Technology Stack
 - The College Map project uses the following technologies:
 
- - HTML
- - CSS
- - JavaScript
+     - HTML
+     - CSS
+     - JavaScript
 --------------------------------------------------------------------------------------------
 
 _____________________________________________Thank You_________________________________________
