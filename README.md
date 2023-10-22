@@ -1,17 +1,17 @@
 COLLEGE MAP
 
---> Project Description
+--> Project Description:
     This project helps in locating the classes and labs in the college. Currently this is done for NMAMIT, NITTE.
     This has been developed using HTML, CSS, and JavaScript making the project efficient and reliable.
 
-=============================================================================================
+----------------------------------------------------------------------------------------------
   
 Technologies Used:
 
   . Used HTML,CSS,JavaScript for Front-End and PHP, MySQL for Back-End
   . In order to run this on the PC PHP MyAdmin and XAMPP is necessary
   
-============================================================================================
+---------------------------------------------------------------------------------------------
   
  The files are currently of the type .html for github hosting purpose
 
