@@ -8,8 +8,8 @@ COLLEGE MAP
   
 Technologies Used:
 
-  . Used HTML,CSS,JavaScript for Front-End and PHP, MySQL for Back-End
-  . In order to run this on the PC PHP MyAdmin and XAMPP is necessary
+  • Used HTML,CSS,JavaScript for Front-End and PHP, MySQL for Back-End
+  • In order to run this on the PC PHP MyAdmin and XAMPP is necessary
   
 ---------------------------------------------------------------------------------------------
   
@@ -35,8 +35,15 @@ Technologies Used:
           
                
    5. With the help of XAMPP run Apache and you are ready to go.
+--------------------------------------------------------------------------------------------
 
-     
-============================================================================================
+--> Technology Stack
+- The College Map project uses the following technologies:
+
+ • HTML
+ • CSS
+ • JavaScript
+--------------------------------------------------------------------------------------------
+
 _____________________________________________Thank You_________________________________________
   
