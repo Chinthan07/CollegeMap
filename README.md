@@ -34,7 +34,7 @@ Technologies Used:
                     ![Capture2](https://user-images.githubusercontent.com/96821629/212860411-7e9aaf0b-7191-44fb-908c-7b98547ad5d2.JPG)
           
                
-    5. With the help of XAMPP run Apache and you are ready to go.
+   5. With the help of XAMPP run Apache and you are ready to go.
 
      
 ============================================================================================
