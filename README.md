@@ -1,11 +1,15 @@
 # COLLEGE MAP
 
    This project helps in locating the classes and labs in the college. Currently this is done for NMAMIT, NITTE.
-  
-TECHNOLOGIES USED:
 
-   Used HTML,CSS,JavaScript for Front-End and PHP, MySQL for Back-End
-   In order to run this on the PC PHP MyAdmin and XAMPP is necessary
+  ____________________________________________________________________________________________________________
+  
+Technologies Used:
+
+  . Used HTML,CSS,JavaScript for Front-End and PHP, MySQL for Back-End
+  . In order to run this on the PC PHP MyAdmin and XAMPP is necessary
+
+ ____________________________________________________________________________________________________________
   
  The files are currently of the type .html for github hosting purpose
  Inorded Completely Use this website follow the next steps
@@ -27,4 +31,7 @@ TECHNOLOGIES USED:
 
      
   4. With the help of XAMPP run Apache and you are ready to go.
+
+     
+_______________________________________Thank You_____________________________________
   
