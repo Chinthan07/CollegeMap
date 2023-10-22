@@ -1,8 +1,9 @@
 # COLLEGE MAP
 
---> Project Description:<br>
-    This project helps in locating the classes and labs in the college. Currently this is done for NMAMIT, NITTE.<br>
-    This has been developed using HTML, CSS, and JavaScript making the project efficient and reliable.
+--> Project Description:
+
+This project helps in locating the classes and labs in the college. Currently this is done for NMAMIT, NITTE.<br>
+This has been developed using HTML, CSS, and JavaScript making the project efficient and reliable.
 
 ----
   
