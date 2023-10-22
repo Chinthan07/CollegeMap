@@ -1,4 +1,4 @@
-COLLEGE MAP
+#COLLEGE MAP
 
 --> Project Description:
     This project helps in locating the classes and labs in the college. Currently this is done for NMAMIT, NITTE.
