@@ -7,7 +7,7 @@ This has been developed using HTML, CSS, and JavaScript making the project effic
 
 ----
   
-Technologies Used:
+-->Technologies Used:
 
   • Used HTML,CSS,JavaScript for Front-End and PHP, MySQL for Back-End <br>
   • In order to run this on the PC PHP MyAdmin and XAMPP is necessary
@@ -16,7 +16,7 @@ Technologies Used:
   
  The files are currently of the type .html for github hosting purpose
 
- --> Installation Instructions
+ --> Installation Instructions:<br>
      Inorded Completely Use this website follow the next steps
      
    1. Clone the website and store it in your PC
