@@ -45,6 +45,7 @@ This has been developed using HTML, CSS, and JavaScript making the project effic
      - HTML
      - CSS
      - JavaScript
+     - PHP
 --------------------------------------------------------------------------------------------
 
 --------------------------------------------Thank You------------------------------------------------
